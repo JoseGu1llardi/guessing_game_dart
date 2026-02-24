@@ -1,3 +1,0 @@
-String yourName() {
-  return "Guillard";
-}
