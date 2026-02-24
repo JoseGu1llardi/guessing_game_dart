@@ -22,9 +22,7 @@ void main() {
     } else if (input > randomNumber) {
       print("Too high! Try again.");
     } else {
-      print(
-        "Congratulations you are GAY! You've guessed the number $randomNumber!",
-      );
+      print("Congratulations! You've guessed the number $randomNumber!");
       break;
     }
   }
